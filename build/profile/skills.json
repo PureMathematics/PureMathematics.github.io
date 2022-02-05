@@ -1,0 +1,128 @@
+{
+    "intro": "Below are some of the major languages, technologies, tools and platforms I have worked with:",
+    "skills": [{
+     
+        "title": "Certificates",
+        "items" : [
+            {
+                "icon": "images/skills/Certificate_logo.png",
+                "title": "CNCF Certified Kubernetes Application Developer"
+            }
+    ]},
+        
+        {
+     
+            "title": "Languages",
+            "items" : [
+                {
+                    "icon": "images/skills/python.png",
+                    "title": "Python"
+                },
+     
+                {
+                    "icon": "images/skills/java.png",
+                    "title": "Java"
+                },
+                {
+                    "icon": "images/skills/typescript.png",
+                    "title": "TypeScript"
+                },
+                {
+                    "icon": "images/skills/sql_logo.png",
+                    "title": "SQL"
+                },
+                {
+                    "icon": "images/skills/go_logo.png",
+                    "title": "Go"
+                }
+        ]},
+        {
+            "title": "DevOps Tools",
+            "items" : [
+                {
+                    "icon": "images/skills/kubernetes_logo.png",
+                    "title": "Kubernetes"
+                },
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/argocd_logo.png",
+                    "title": "ArgoCD"
+                },
+                {
+                    "icon": "images/skills/helm_logo.png",
+                    "title": "Helm"
+                },
+                {
+                    "icon": "images/skills/ansible_logo.png",
+                    "title": "Ansible"
+                },
+                {
+                    "icon": "images/skills/rancher_logo.png",
+                    "title": "Rancher"
+                },
+                {
+                    "icon": "images/skills/harbor_logo.png",
+                    "title": "Harbor"
+                }
+            ]
+        },
+        {
+            "title" : "AWS Tools",
+            "items": [
+                {
+                    "icon": "images/skills/eks_logo.jpeg",
+                    "title": "EKS"
+                },
+                {
+                    "icon": "images/skills/S3_logo.png",
+                    "title": "S3"
+                },
+                {
+                    "icon": "images/skills/ec2_logo.png",
+                    "title": "EC2"
+                },
+                {
+                    "icon": "images/skills/apigateway_logo.svg",
+                    "title": "API Gateway"
+                },
+                {
+                    "icon": "images/skills/lambda_logo.png",
+                    "title": "Lambda"
+                }
+        ]},
+        {
+            "title" : "Web Development Tools & Database",
+            "items": [
+                {
+                    "icon": "images/skills/fast_api_logo.svg",
+                    "title": "FastAPI"
+                },
+                {
+                    "icon": "images/skills/springboot_logo.png",
+                    "title": "Spring Boot"
+                },
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },
+                {
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "Mongo DB"
+                }
+        ]},
+        {
+            "title" : "Machine Learning Tools",
+            "items": [
+                {
+                    "icon": "images/skills/keras_logo.png",
+                    "title": "Keras"
+                },
+                {
+                    "icon": "images/skills/tensorflow_logo.png",
+                    "title": "TensorFlow"
+                }
+        ]}
+]}

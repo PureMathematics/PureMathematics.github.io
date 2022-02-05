@@ -1,0 +1,31 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer",
+            "subtitle": "The Aerospace Corporation",
+            "workType": "Full-time",
+            "workDescription": [
+                "Cloud Architectures and Platforms Department \n Chantilly, Virginia"
+            ],
+            "dateText": "05/2021 – Present"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "The Aerospace Corporation",
+            "workType": "Internship",
+            "workDescription": [
+                "Cloud Architectures and Platforms Department \n Remote Internship"
+            ],
+            "dateText": "05/2020 – 08/2020"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "The Aerospace Corporation",
+            "workType": "Internship",
+            "workDescription": [
+                "Sensor Modeling and Simulation Department \n Summer Internship in Chantilly, Virginia"
+            ],
+            "dateText": "05/2019 – 08/2019"
+        }
+    ]
+}

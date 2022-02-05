@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "Graduated in May 2021",
+            "cardTitle": "M.S., Computer Science",
+            "cardSubtitle":"Georgia Institute of Technology",
+            "cardDetailedText": "Specialization in Machine Learning",
+            "icon" : {
+                "src": "images/education/GeorgiaTechLogo.png"
+            }
+        },
+        {
+            "title": "Graduated in Dec 2019",
+            "cardTitle": "B.S., Computer Science",
+            "cardSubtitle":"Georgia Institute of Technology",
+            "cardDetailedText": "Intelligence & Theory",
+            "icon" : {
+                "src": "images/education/GeorgiaTechLogo.png"
+            }
+        }
+    ]
+}
