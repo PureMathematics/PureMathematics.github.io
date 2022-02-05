@@ -61,7 +61,7 @@ function Experience(props) {
                       key={item.title + item.dateText}
                       dateText={item.dateText}
                       dateInnerStyle={{ background: theme.accentColor }}
-                      style={styles.itemStyle}
+                      style={styles.itemStyle} 
                       bodyContainerStyle={{ color: theme.color }}
                     >
                       <h2 className="item-title">

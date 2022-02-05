@@ -2,32 +2,30 @@
     "experiences": [
         {
             "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "subtitle": "The Aerospace Corporation",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Cloud Architectures and Platforms Department \n Chantilly, Virginia"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "05/2021 – Present"
         },
         {
             "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "subtitle": "The Aerospace Corporation",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Cloud Architectures and Platforms Department \n Remote Internship"
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "05/2020 – 08/2020"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Software Engineer",
+            "subtitle": "The Aerospace Corporation",
+            "workType": "Internship",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Sensor Modeling and Simulation Department \n Summer Internship in Chantilly, Virginia"
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "05/2019 – 08/2019"
         }
     ]
 }

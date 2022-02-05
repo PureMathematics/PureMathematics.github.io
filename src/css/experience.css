@@ -6,4 +6,7 @@
     .item-title {
         margin-top: 10px !important;
     }
+    .item-dateText {
+        width: 0px;
+    }
 }

@@ -2,15 +2,19 @@
     "social": [
         {
             "network" : "linkedin",
-            "href": "https://linkedin.com/"
+            "href": "https://www.linkedin.com/in/PureMathematics"
         },
         {
             "network" : "github",
-            "href": "https://github.com/mayankagarwal09"
+            "href": "https://github.com/PureMathematics"
         },
         {
             "network" : "email",
-            "href": "mailto:test@test.com"
+            "href": "mailto:david.dongsuk.lim@gmail.com"
+        },
+        {
+            "network" : "instagram",
+            "href": "https://www.instagram.com/david_lim0305/"
         }
     ]
 }
